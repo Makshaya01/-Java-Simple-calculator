@@ -1,5 +1,5 @@
 # -Java-Simple-calculator
-Build a very simple CALCULATOR through java.
+Build a very simple CALCULATOR using java.
 
 import javax.swing.*;
 import java.awt.*;
